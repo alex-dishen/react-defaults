@@ -1,9 +1,10 @@
-import './styles/App.css';
-import './styles/normalize.css';
+import './styles/normalize.scss';
 
 function App() {
+  // eslint-disable-next-line prettier/prettier
   return (
-    <div className="App"></div>
+    <>
+    </>
   );
 }
 
